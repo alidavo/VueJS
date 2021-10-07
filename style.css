@@ -1,0 +1,58 @@
+#nom{
+  position:absolute;
+  font-size: 25px;
+  text-align: center;
+  top:320px;
+  left:20px;
+  color: brown;
+}
+
+p.nom1{
+  position:absolute;
+  font-size: 25px;
+  top:138px;
+  left:20px;
+  color: brown;
+}
+  
+p.nom2{
+  position:absolute;
+  font-size: 25px;
+  top:138px;
+  left:150px;
+  color: brown;
+}
+
+p.nom3{
+  position:absolute;
+  font-size: 25px;
+  top:138px;
+  left:280px;
+  color: brown;
+}
+
+p.num1{
+  position:absolute;
+  font-size: 25px;
+  top:188px;
+  left:20px;
+  color: brown;
+}
+
+p.num2{
+  position:absolute;
+  font-size: 25px;
+  top:188px;
+  left:150px;
+  color: brown;
+}
+
+p.num3{
+  position:absolute;
+  font-size: 25px;
+  top:188px;
+  left:280px;
+  color: brown;
+}
+
+
